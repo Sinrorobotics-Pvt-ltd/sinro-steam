@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "What is the Time table of monday",
+      "answer": "phy , math, eng , evs , phy ,che"
+    },
+    {
+      "question": "What is school mail id",
+      "answer": "School@123"
+    },
+    {
+      "question": "how manny students studying",
+      "answer": "1000"
+    },
+    {
+      "question": "school location",
+      "answer": "kerala"
+    },
+    {
+      "question": "Principal name",
+      "answer": "Abdhu"
+    },
+    {
+      "question": "Addmision",
+      "answer": "add link"
+    },
+    {
+      "question": " payment",
+      "answer": "upi"
+    },
+    {
+      "question": " course",
+      "answer": "phy"
+    },
+    {
+      "question": "ok",
+      "answer": "ok?"
+    },
+    {
+      "question": "timetable",
+      "answer": "phy, math ,eng ,evs, phy, che"
+    }
+  ]
+}
